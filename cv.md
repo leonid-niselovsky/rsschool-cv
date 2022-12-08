@@ -64,7 +64,7 @@ int main(void)
 
 ## Experience
 
-I've made a website for a door store but unfortunately now it's off. I used HTML, CSS, JS, Bootstrap, jQuery, CRM Wordpress, MySQL.
+I've made a website for a door store but unfortunately now it's off. I used HTML, CSS, JS, PHP, Bootstrap, jQuery, CRM Wordpress, MySQL.
 
 ## Education
 
