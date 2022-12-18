@@ -373,6 +373,10 @@ body {
   .sections-top {
     padding-bottom: 0;
   }
+
+  #avatar {
+    margin-bottom: 10px;
+  }
 }
 
 @media (min-width: 768px) {
